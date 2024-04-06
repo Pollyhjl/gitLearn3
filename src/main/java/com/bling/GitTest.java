@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("push test!");
         System.out.println("pull test!");
         System.out.println("change sth for git.ignore");
+        System.out.println("change sth for git.ignore");
     }
 }
